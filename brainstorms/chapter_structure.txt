@@ -1,0 +1,7 @@
+Each chapter will have:
+	- Overview of that field, contextualizing in previous areas.
+	- Scratch programs throughout.
+	- Problems, with solutions in back of book.
+
+Ideas:
+	- Could have a Scratch account for the book that has existing code for a variety of the exercises (demos, etc.).

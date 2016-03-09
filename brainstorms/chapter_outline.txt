@@ -1,0 +1,48 @@
+Possible Chapters (and proposed order)
+	- Intro & Overview of Computer Science
+	- Bits and Binary
+		Representing everything with numbers
+		Base two represention
+		Physical representation of bits
+			History
+			Current approach
+			Moore's Law
+		Binary Arithmetic
+	- Logic
+		History
+		Boolean Values
+		AND, OR, NOT
+			Truth Tables
+			Proofs
+		Gates
+		Domino Gates
+		Model of a Computer
+	- Programming
+	- Algorithms
+		Problem Specification
+		Searching, Sorting, Satisfiability, Halt
+		Correctness
+		Run time
+	- Artificial Intelligence
+		Machine Learning
+			Classification
+			Computer Vision
+			Natural Language Processing
+		Reinforcement Learning
+	- Recursion
+	- Theory
+		Complexity
+		Computability
+	- Compression & Error Correcting Codes
+	- Cryptography
+		Pre-Modern Approaches
+		Public Key Cryptography
+
+Other possibilities:
+	- Graphics
+	- Networks
+	- Databases
+	- Operating Systems
+	- Overview of languages
+
+
